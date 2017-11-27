@@ -6,7 +6,7 @@
  * Time: 10:33 PM
  */
 
-namespace tonanguyen\SimpleImage;
+namespace tonanguyen;
 use Exception;
 /**
  * Class SimpleImage
@@ -461,7 +461,7 @@ class SimpleImage {
 	 * @return int
 	 *
 	 */
-	function get_height() {
+	function getHeight() {
 		return $this->height;
 	}
 
@@ -508,7 +508,7 @@ class SimpleImage {
 	 * @return int
 	 *
 	 */
-	function get_width() {
+	function getWidth() {
 		return $this->width;
 	}
 
