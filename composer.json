@@ -6,7 +6,7 @@
             "email": "nguyennguyen.vt88@gmail.com"
         }
     ],
-    "description": "the first composer package",
+    "description": "Drop, resize image, etc.",
     "type": "php",
     "license": "tonanguyen",
     "minimum-stability": "dev",
